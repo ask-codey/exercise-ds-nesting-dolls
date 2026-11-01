@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="NestingDolls/NestingDolls.csproj" />
+  <Project Path="NestingDolls.Tests/NestingDolls.Tests.csproj" />
+</Solution>
